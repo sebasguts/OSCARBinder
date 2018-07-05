@@ -1,4 +1,4 @@
-FROM oscarsystem/oscardocker:20180629
+FROM oscarsystem/oscardocker:20180703
 
 MAINTAINER Sebastian Gutsche <gutsche@mathematik.uni-siegen.de>
 
